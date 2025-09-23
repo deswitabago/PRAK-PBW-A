@@ -28,5 +28,4 @@ Langkah-Langkah:
 <img width="763" height="79" alt="Image" src="https://github.com/user-attachments/assets/cea23f3b-6877-4f6c-a801-6795f869243e" />
 
 9. Lalu, kita melakukan perintah dibawah,setelah melakukan perintah dibawah folder yang berada di VScode dapat terhubung di folder github dilink awal
-<img width="815" height="250" alt="Image" src="https://github.com/user-attachments/assets/efbbb9cf-0a5d-43be-b128-d446f30d4f93" />
-
+<img width="815" height="250" alt="Image" src="https://github.com/user-attachments/assets/c9c9c5a4-cebb-43c2-8fc2-743965f59cbe" />
