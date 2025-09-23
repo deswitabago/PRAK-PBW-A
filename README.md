@@ -9,11 +9,11 @@ Langkah-Langkah:
  <img width="714" height="89" alt="Image" src="https://github.com/user-attachments/assets/85b582a0-3ed3-41eb-885f-3f4e6bae4c09" />
 
 3. Setelah Cek Version, lakukan perintah pada gambar, dibawah. Yang akan berfungsi untuk membuat repository
-    <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/78ab3fed-e746-4a69-ae92-bccdb855b651" />
+  <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/0e600eb4-86b8-469a-b15b-637b3b74a78e" />
 
-4. Buat Folder Prak PBW di VScode dan Github juga. Setelah itu didalam VScode di PRAK PBW buat lagi folder, praktikum-1. |
-   <img width="291" height="155" alt="Image" src="https://github.com/user-attachments/assets/0c0240c3-0183-41ae-a2bf-dc6d1ccbed5d" />
+4. Buat Folder PRAK PBW-A di VScode. Setelah itu folder di dalam PRAK PBW-A dibuat folder lagi yaitu, praktikum-1. 
 
+ 
 5. Kemudian, hubungkan link folder yang telah dibuat di github ke VScode
  <img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/daddc6c5-45a9-4fb1-8620-30900664dcb4" />
 
