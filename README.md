@@ -21,9 +21,9 @@ Langkah-Langkah:
 6. Lalu, jika kita ingin menggabungkan semua file didalam folder kita bisa memberikan perintah
 <img width="715" height="69" alt="Image" src="https://github.com/user-attachments/assets/e71fab8a-394f-421c-880a-86712ceb8b8d" />
 
-7. Kemudian jika ingin menyimpan data pada repository jika terjadi kesalahan kita bisa melakukan
- <img width="743" height="128" alt="Image" src="https://github.com/user-attachments/assets/0dfe3a8a-566b-47c0-85e8-6fda559d506a" />
- 
+7. Kemudian jika ingin menyimpan data pada repository jika terjadi kesalahan pada folder kita bisa melakukan
+<img width="743" height="128" alt="Image" src="https://github.com/user-attachments/assets/ec5e61ab-0a70-4923-a3ad-0a1a9e89e43e" />
+
 8. Setelah itu jika ingin melakukan brach, kita terlebih dahulu melakukan perintah berikut agar tidak terjadi error
  <img width="763" height="79" alt="Image" src="https://github.com/user-attachments/assets/04734992-9f28-4f3c-91c0-43a1422dbce8" />
 
