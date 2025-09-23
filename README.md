@@ -19,7 +19,7 @@ Langkah-Langkah:
 <img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/1b2d21b0-e967-47ed-93c6-de9bee0f5113" />
 
 6. Lalu, jika kita ingin menggabungkan semua file didalam folder kita bisa memberikan perintah
-  <img width="715" height="69" alt="Image" src="https://github.com/user-attachments/assets/7cc575d6-9b12-4523-9e0f-8e1fb8407c0c" />
+<img width="715" height="69" alt="Image" src="https://github.com/user-attachments/assets/e71fab8a-394f-421c-880a-86712ceb8b8d" />
 
 7. Kemudian jika ingin menyimpan data pada repository jika terjadi kesalahan kita bisa melakukan
  <img width="743" height="128" alt="Image" src="https://github.com/user-attachments/assets/0dfe3a8a-566b-47c0-85e8-6fda559d506a" />
