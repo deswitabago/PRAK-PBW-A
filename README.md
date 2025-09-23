@@ -5,8 +5,8 @@ Langkah-Langkah:
 1. Donwload GIT
   <img width="1561" height="882" alt="Image" src="https://github.com/user-attachments/assets/8bb58021-068b-4ab9-ad30-ba3423c614fe" />
   
-2. Kemudian Cek Version GIT
-   <img width="714" height="89" alt="Image" src="https://github.com/user-attachments/assets/87f943dd-20d8-42bb-afdc-bb46de3f81e3" />
+2. Setelah Github didownload, cek Version GIT
+ <img width="714" height="89" alt="Image" src="https://github.com/user-attachments/assets/85b582a0-3ed3-41eb-885f-3f4e6bae4c09" />
 
 3. Setelah Cek Version, lakukan perintah pada gambar, dibawah. Yang akan berfungsi untuk membuat repository
     <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/78ab3fed-e746-4a69-ae92-bccdb855b651" />
