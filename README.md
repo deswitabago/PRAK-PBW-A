@@ -25,8 +25,8 @@ Langkah-Langkah:
 <img width="743" height="128" alt="Image" src="https://github.com/user-attachments/assets/ec5e61ab-0a70-4923-a3ad-0a1a9e89e43e" />
 
 8. Setelah itu jika ingin melakukan brach, kita terlebih dahulu melakukan perintah berikut agar tidak terjadi error
- <img width="763" height="79" alt="Image" src="https://github.com/user-attachments/assets/04734992-9f28-4f3c-91c0-43a1422dbce8" />
+<img width="763" height="79" alt="Image" src="https://github.com/user-attachments/assets/cea23f3b-6877-4f6c-a801-6795f869243e" />
 
-9. lalu, baru kita buat perintah lagi. Setelah melakukan perintah tersebut, maka folder yang berada di VScode dapat terhubung di folder github yang kita hubungkan diawal
+9. Lalu, kita melakukan perintah dibawah,setelah melakukan perintah dibawah folder yang berada di VScode dapat terhubung di folder github dilink awal
 <img width="815" height="250" alt="Image" src="https://github.com/user-attachments/assets/efbbb9cf-0a5d-43be-b128-d446f30d4f93" />
 
