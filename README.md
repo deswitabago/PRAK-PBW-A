@@ -11,13 +11,12 @@ Langkah-Langkah:
 3. Setelah Cek Version, lakukan perintah pada gambar, dibawah. Yang akan berfungsi untuk membuat repository
   <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/0e600eb4-86b8-469a-b15b-637b3b74a78e" />
 
-4. Buat Folder PRAK PBW-A di VScode. Setelah itu folder di dalam PRAK PBW-A dibuat folder lagi yaitu, praktikum-1.   
+4. Buat Folder PRAK PBW-A di VScode. Setelah itu folder di dalam PRAK PBW-A dibuat folder lagi yaitu, praktikum 1.git   
   <img width="286" height="164" alt="Image" src="https://github.com/user-attachments/assets/9ac947f5-8fa4-4fa1-9da3-2d5358aa781b" />
 
 
- 
 5. Kemudian, hubungkan link folder yang telah dibuat di github ke VScode
- <img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/daddc6c5-45a9-4fb1-8620-30900664dcb4" />
+<img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/1b2d21b0-e967-47ed-93c6-de9bee0f5113" />
 
 6. Lalu, jika kita ingin menggabungkan semua file didalam folder kita bisa memberikan perintah
   <img width="715" height="69" alt="Image" src="https://github.com/user-attachments/assets/7cc575d6-9b12-4523-9e0f-8e1fb8407c0c" />
